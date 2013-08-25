@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="button_y_as_ab" value="true" />
+<string name="orientation">landscape</string>
+<int name="gamepad_down" value="20" />
+<boolean name="enableVKeypad" value="false" />
+<int name="gamepad_right" value="22" />
+<int name="gamepad_X" value="96" />
+<string name="vkeypadSize">medium</string>
+<int name="gamepad_A" value="97" />
+<int name="gamepad_start" value="23" />
+<string name="vkeypadLayout">top_bottom</string>
+<int name="gamepad_up" value="19" />
+<int name="gamepad_left" value="21" />
+<int name="gamepad_C" value="98" />
+<int name="gamepad_B" value="99" />
+<boolean name="soundEnabled" value="true" />
+<boolean name="button_z_as_abc" value="true" />
+<boolean name="quick_search_sdcard" value="true" />
+<string name="scalingMode">stretch</string>
+<int name="gamepad_coin" value="109" />
+<boolean name="enableVibrator" value="true" />
+<boolean name="enableTrackball" value="true" />
+</map>

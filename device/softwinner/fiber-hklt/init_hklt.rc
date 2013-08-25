@@ -1,0 +1,11 @@
+#!/system/bin/sh
+
+#csi module
+	insmod /system/vendor/modules/actuator.ko
+	insmod /system/vendor/modules/ad5820_act.ko
+	insmod /system/vendor/modules/cci.ko
+	insmod /system/vendor/modules/vfe_os.ko
+	insmod /system/vendor/modules/vfe_subdev.ko
+	insmod /system/vendor/modules/ov5640.ko
+	insmod /system/vendor/modules/gc0308.ko
+	insmod /system/vendor/modules/vfe_v4l2.ko

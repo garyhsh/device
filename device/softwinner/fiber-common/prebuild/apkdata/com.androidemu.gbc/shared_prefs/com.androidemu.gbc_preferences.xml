@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="gamepad_right" value="22" />
+<boolean name="quickLoadOnStart" value="true" />
+<boolean name="enableVKeypad" value="false" />
+<int name="gamepad_up_left" value="102" />
+<int name="gamepad_select" value="109" />
+<string name="refreshRate">default</string>
+<string name="vkeypadLayout">bottom_bottom</string>
+<int name="gamepad_up" value="19" />
+<boolean name="fullScreenMode" value="true" />
+<int name="gamepad_left" value="20" />
+<int name="gamepad_B_turbo" value="96" />
+<int name="gamepad_A_turbo" value="98" />
+<boolean name="soundEnabled" value="true" />
+<int name="gamepad_down" value="20" />
+<string name="orientation">unspecified</string>
+<boolean name="enableCheats" value="true" />
+<string name="vkeypadSize">medium</string>
+<string name="frameSkipMode">auto</string>
+<int name="gamepad_A" value="97" />
+<int name="gamepad_start" value="23" />
+<boolean name="disableExtraButtons" value="true" />
+<int name="gamepad_B" value="99" />
+<string name="fastForwardSpeed">2x</string>
+<string name="scalingMode">stretch</string>
+<int name="gamepad_up_right" value="103" />
+<boolean name="enableVibrator" value="true" />
+<boolean name="enableTrackball" value="true" />
+</map>

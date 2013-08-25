@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="gpuPref">/system/etc/prebuild_data/com.epsxe.ePSXe/gpu/libopenglplugin.so</string>
+<string name="miscBrowsermodePref">1</string>
+<string name="soundQAPref">1</string>
+<string name="cpuShowFPSPref">0</string>
+<string name="soundLatencyPref">0</string>
+<string name="analog2leftyPref">-1</string>
+<string name="screenOrientationPref">0</string>
+<string name="biosPref">/system/etc/prebuild_data/com.epsxe.ePSXe/bios/SCPH5500.BIN</string>
+<string name="inputVibratePref">0</string>
+<string name="analog1rightyPref">-1</string>
+<int name="P1X" value="97" />
+<string name="videoDitherPref">0</string>
+<string name="miscAutosavePref">0</string>
+<string name="cpuFrameSkipPref">0</string>
+<int name="P1Select" value="109" />
+<string name="analog1rangePref">0</string>
+<string name="inputPadTypePref">1</string>
+<string name="inputPad2ModePref">1</string>
+<int name="P1Right" value="22" />
+<int name="P1Circle" value="99" />
+<string name="cpuMMEPref">1</string>
+<string name="analog1profilePref">0</string>
+<int name="P1Left" value="21" />
+<int name="P1Square" value="96" />
+<int name="P1Up" value="19" />
+<string name="videoRendererPref">1</string>
+<int name="P1Triangle" value="98" />
+<int name="P1Down" value="20" />
+<string name="inputPadModePref">1</string>
+<string name="analog2leftxPref">-1</string>
+<string name="screenRatioPref">0</string>
+<int name="P1R1" value="103" />
+<string name="screenBlackbandsPref">0</string>
+<string name="inputPaintPadModePref">2</string>
+<string name="analog2rightyPref">-1</string>
+<string name="isoPath">/mnt/sdcard/Games</string>
+<string name="analog1leftyPref">-1</string>
+<int name="P1Start" value="23" />
+<string name="videoFilterhwPref">1</string>
+<string name="analog2rightxPref">-1</string>
+<int name="P1L1" value="102" />
+<string name="inputPlayerModePref">1</string>
+<string name="analog1rightxPref">-1</string>
+<string name="analog2profilePref">0</string>
+<string name="analog1leftxPref">-1</string>
+<string name="analog2rangePref">0</string>
+</map>

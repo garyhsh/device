@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="useSensor">none</string>
+<boolean name="quickLoadOnStart" value="false" />
+<boolean name="enableVKeypad" value="false" />
+<int name="gamepad_right" value="22" />
+<int name="gamepad_select" value="109" />
+<string name="saveType">auto</string>
+<string name="refreshRate">default</string>
+<string name="vkeypadLayout">bottom_bottom</string>
+<int name="gamepad_up" value="19" />
+<boolean name="fullScreenMode" value="true" />
+<int name="gamepad_left" value="21" />
+<boolean name="soundEnabled" value="true" />
+<int name="gamepad_A_turbo" value="98" />
+<int name="gamepad_B_turbo" value="96" />
+<string name="biosFile">/system/etc/prebuild_data/com.androidemu.gba/bios/gba_bios.bin</string>
+<string name="orientation">landscape</string>
+<int name="gamepad_down" value="20" />
+<boolean name="enableCheats" value="true" />
+<string name="vkeypadSize">medium</string>
+<string name="frameSkipMode">auto</string>
+<int name="gamepad_A" value="97" />
+<int name="gamepad_start" value="23" />
+<int name="gamepad_TL" value="102" />
+<boolean name="disableExtraButtons" value="true" />
+<int name="gamepad_B" value="99" />
+<string name="fastForwardSpeed">2x</string>
+<int name="gamepad_GS" value="0" />
+<int name="gamepad_TR" value="103" />
+<string name="scalingMode">stretch</string>
+<boolean name="enableVibrator" value="true" />
+<boolean name="enableTrackball" value="true" />
+</map>
